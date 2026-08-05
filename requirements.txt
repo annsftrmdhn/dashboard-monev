@@ -3,6 +3,7 @@ pandas
 numpy
 matplotlib
 seaborn
+plotly
 transformers
 torch
 openpyxl
